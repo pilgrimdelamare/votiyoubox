@@ -1,0 +1,39 @@
+[
+  {
+    "userId": "pippo",
+    "performance": 1,
+    "vote": 5,
+    "when": 1750089536686
+  },
+  {
+    "userId": "user-r0xlyc6q",
+    "performance": "a",
+    "vote": 5,
+    "when": 1750804937042,
+    "contestant": {
+      "id": 1,
+      "name": "a"
+    },
+    "song": {
+      "file": "Lucio Dalla - Caruso.mp4",
+      "author": "Lucio Dalla",
+      "title": "Caruso"
+    }
+  },
+  {
+    "userId": "Mario",
+    "table": "Tavolo1",
+    "performance": "esibizione1",
+    "vote": 7,
+    "when": 1750818292846,
+    "contestant": {
+      "id": 1,
+      "name": "a"
+    },
+    "song": {
+      "file": "Lucio Dalla - Caruso.mp4",
+      "author": "Lucio Dalla",
+      "title": "Caruso"
+    }
+  }
+]

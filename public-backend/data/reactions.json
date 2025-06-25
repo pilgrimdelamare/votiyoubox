@@ -1,0 +1,62 @@
+[
+  {
+    "userId": "user-r0xlyc6q",
+    "performance": "a",
+    "type": "cuore",
+    "when": 1750804910862,
+    "contestant": {
+      "id": 1,
+      "name": "a"
+    },
+    "song": {
+      "file": "Lucio Dalla - Caruso.mp4",
+      "author": "Lucio Dalla",
+      "title": "Caruso"
+    }
+  },
+  {
+    "userId": "user-r0xlyc6q",
+    "performance": "a",
+    "type": "pomodoro",
+    "when": 1750804912537,
+    "contestant": {
+      "id": 1,
+      "name": "a"
+    },
+    "song": {
+      "file": "Lucio Dalla - Caruso.mp4",
+      "author": "Lucio Dalla",
+      "title": "Caruso"
+    }
+  },
+  {
+    "userId": "user-r0xlyc6q",
+    "performance": "a",
+    "type": "pomodoro",
+    "when": 1750804916067,
+    "contestant": {
+      "id": 1,
+      "name": "a"
+    },
+    "song": {
+      "file": "Lucio Dalla - Caruso.mp4",
+      "author": "Lucio Dalla",
+      "title": "Caruso"
+    }
+  },
+  {
+    "userId": "user-r0xlyc6q",
+    "performance": "a",
+    "type": "pomodoro",
+    "when": 1750804920094,
+    "contestant": {
+      "id": 1,
+      "name": "a"
+    },
+    "song": {
+      "file": "Lucio Dalla - Caruso.mp4",
+      "author": "Lucio Dalla",
+      "title": "Caruso"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "Mario",
+    "table": "Tavolo1",
+    "type": "vote",
+    "context": "esibizione1",
+    "when": 1750818292841
+  },
+  {
+    "userId": "Mario",
+    "table": "Tavolo1",
+    "type": "reaction",
+    "context": "esibizione1",
+    "when": 1750818388786
+  },
+  {
+    "userId": "Mario",
+    "table": "Tavolo1",
+    "type": "fan",
+    "context": "Giulia",
+    "when": 1750818497152
+  }
+]
